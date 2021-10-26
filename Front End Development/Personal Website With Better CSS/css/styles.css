@@ -151,6 +151,11 @@ h3{
   height: 20px;
 }
 
+.footer-link{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 #copy{
   color: black;
 }
